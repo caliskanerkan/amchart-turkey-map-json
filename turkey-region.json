@@ -966,8 +966,7 @@
         "CNTRY": "Turkey",
         "TYPE": "Province",
         "id": "TR-01",
-        "name": "akdeniz",
-        "number": 0
+        "name": "Akdeniz"
       },
       "type": "Feature"
     },
@@ -1828,8 +1827,7 @@
         "CNTRY": "Turkey",
         "TYPE": "Province",
         "id": "TR-02",
-        "name": "karadeniz",
-        "number": 0
+        "name": "Karadeniz"
       },
       "type": "Feature"
     },
@@ -2613,8 +2611,7 @@
         "CNTRY": "Turkey",
         "TYPE": "Province",
         "id": "TR-03",
-        "name": "iç anadolu",
-        "number": 0
+        "name": "İç anadolu"
       },
       "type": "Feature"
     },
@@ -3455,8 +3452,7 @@
         "CNTRY": "Turkey",
         "TYPE": "Province",
         "id": "TR-04",
-        "name": "marmara",
-        "number": 0
+        "name": "Marmara"
       },
       "type": "Feature"
     },
@@ -6058,8 +6054,7 @@
         "CNTRY": "Turkey",
         "TYPE": "Province",
         "id": "TR-05",
-        "name": "ege",
-        "number": 0
+        "name": "ege"
       },
       "type": "Feature"
     },
@@ -6954,8 +6949,7 @@
         "CNTRY": "Turkey",
         "TYPE": "Province",
         "id": "TR-06",
-        "name": "doğu anadolu",
-        "number": 0
+        "name": "Doğu Anadolu"
       },
       "type": "Feature"
     },
@@ -7391,14 +7385,13 @@
         "CNTRY": "Turkey",
         "TYPE": "Province",
         "id": "TR-07",
-        "name": "güney doğu anadolu",
-        "number": 0
+        "name": "Güney Doğu Anadolu"
       },
       "type": "Feature"
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [34.004492187500006, 35.065234375],
@@ -7449,8 +7442,7 @@
         ]
       },
       "properties": {
-        "name": "kıbrıs",
-        "number": 0,
+        "name": "Kıbrıs",
         "CNTRY": "Turkey",
         "TYPE": "Province",
         "id": "TR-08"
