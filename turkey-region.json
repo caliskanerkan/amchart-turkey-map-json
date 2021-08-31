@@ -963,10 +963,10 @@
         ]
       },
       "properties": {
-        "CNTRY": "Turkey",
-        "TYPE": "Province",
+        "name": "akdeniz",
         "id": "TR-01",
-        "name": "Akdeniz"
+        "CNTRY": "Turkey",
+        "TYPE": "Province"
       },
       "type": "Feature"
     },
@@ -1824,10 +1824,10 @@
         ]
       },
       "properties": {
-        "CNTRY": "Turkey",
-        "TYPE": "Province",
+        "name": "karadeniz",
         "id": "TR-02",
-        "name": "Karadeniz"
+        "CNTRY": "Turkey",
+        "TYPE": "Province"
       },
       "type": "Feature"
     },
@@ -2608,10 +2608,10 @@
         ]
       },
       "properties": {
-        "CNTRY": "Turkey",
-        "TYPE": "Province",
+        "name": "iç anadolu",
         "id": "TR-03",
-        "name": "İç anadolu"
+        "CNTRY": "Turkey",
+        "TYPE": "Province"
       },
       "type": "Feature"
     },
@@ -3449,10 +3449,10 @@
         ]
       },
       "properties": {
-        "CNTRY": "Turkey",
-        "TYPE": "Province",
+        "name": "marmara",
         "id": "TR-04",
-        "name": "Marmara"
+        "CNTRY": "Turkey",
+        "TYPE": "Province"
       },
       "type": "Feature"
     },
@@ -6051,10 +6051,10 @@
         ]
       },
       "properties": {
-        "CNTRY": "Turkey",
-        "TYPE": "Province",
+        "name": "ege",
         "id": "TR-05",
-        "name": "ege"
+        "CNTRY": "Turkey",
+        "TYPE": "Province"
       },
       "type": "Feature"
     },
@@ -6946,10 +6946,10 @@
         ]
       },
       "properties": {
-        "CNTRY": "Turkey",
-        "TYPE": "Province",
+        "name": "doğu anadolu",
         "id": "TR-06",
-        "name": "Doğu Anadolu"
+        "CNTRY": "Turkey",
+        "TYPE": "Province"
       },
       "type": "Feature"
     },
@@ -7382,16 +7382,16 @@
         ]
       },
       "properties": {
-        "CNTRY": "Turkey",
-        "TYPE": "Province",
+        "name": "güney doğu anadolu",
         "id": "TR-07",
-        "name": "Güney Doğu Anadolu"
+        "CNTRY": "Turkey",
+        "TYPE": "Province"
       },
       "type": "Feature"
     },
     {
       "geometry": {
-        "type": "MultiPolygon",
+        "type": "Polygon",
         "coordinates": [
           [
             [34.004492187500006, 35.065234375],
@@ -7442,10 +7442,10 @@
         ]
       },
       "properties": {
-        "name": "Kıbrıs",
+        "name": "kıbrıs",
+        "id": "TR-08",
         "CNTRY": "Turkey",
-        "TYPE": "Province",
-        "id": "TR-08"
+        "TYPE": "Province"
       },
       "type": "Feature"
     }
