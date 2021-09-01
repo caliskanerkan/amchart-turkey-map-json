@@ -1,1 +1,1 @@
-Türkiye Bölgesel ve Genel Haritası
+amCharts Türkiye İller,Bölgeler Haritası
