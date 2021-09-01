@@ -964,7 +964,7 @@
       },
       "properties": {
         "name": "akdeniz",
-        "id": "TR-01",
+        "id": "AKDENIZ",
         "CNTRY": "Turkey",
         "TYPE": "Province"
       },
@@ -1825,7 +1825,7 @@
       },
       "properties": {
         "name": "karadeniz",
-        "id": "TR-02",
+        "id": "KARADENIZ",
         "CNTRY": "Turkey",
         "TYPE": "Province"
       },
@@ -2609,7 +2609,7 @@
       },
       "properties": {
         "name": "iç anadolu",
-        "id": "TR-03",
+        "id": "IC ANADOLU",
         "CNTRY": "Turkey",
         "TYPE": "Province"
       },
@@ -3450,7 +3450,7 @@
       },
       "properties": {
         "name": "marmara",
-        "id": "TR-04",
+        "id": "MARMARA",
         "CNTRY": "Turkey",
         "TYPE": "Province"
       },
@@ -6052,7 +6052,7 @@
       },
       "properties": {
         "name": "ege",
-        "id": "TR-05",
+        "id": "EGE",
         "CNTRY": "Turkey",
         "TYPE": "Province"
       },
@@ -6947,7 +6947,7 @@
       },
       "properties": {
         "name": "doğu anadolu",
-        "id": "TR-06",
+        "id": "DOGU",
         "CNTRY": "Turkey",
         "TYPE": "Province"
       },
@@ -7383,7 +7383,7 @@
       },
       "properties": {
         "name": "güney doğu anadolu",
-        "id": "TR-07",
+        "id": "GUNEY",
         "CNTRY": "Turkey",
         "TYPE": "Province"
       },
@@ -7443,7 +7443,7 @@
       },
       "properties": {
         "name": "kıbrıs",
-        "id": "TR-08",
+        "id": "KIBRIS",
         "CNTRY": "Turkey",
         "TYPE": "Province"
       },
